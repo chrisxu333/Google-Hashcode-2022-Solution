@@ -1,0 +1,3 @@
+D:/pr-assignment/teamwork/cmake-build-debug/CMakeFiles/teamwork.dir
+D:/pr-assignment/teamwork/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/pr-assignment/teamwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
